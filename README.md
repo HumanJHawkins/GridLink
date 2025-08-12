@@ -37,10 +37,9 @@ With 50 x 20mm base squares, M5 mounting holes and channels for 4mm steel rod re
 The hidden connector companion to GridLink Doom, for those times when you need everything, and sharply defined squares too.
 <br/><br/><br/>
 
-### GridLink Chess™ (GLU5719-050-M14)
-Creating a chessboard for a school chess club is one of the original motives for creating GridLink. This is a chessboard-specific GridLink series, FIDE compliant with traditional 2 1/4" (57.15mm) x 3/4" (19.05mm) squares. Non-chess-specific parts will be included for those wanting a GridLink series in English units. At this thickness it looks and feels very premium. Holes have been placed in the bottom center of squares to allow up to a 10mm magnet. Parts are included for both hidden barrel hinges or magnetic board assembly for where a portable option is needed.
+### Special Cases
+As needed, other sets such as GridLink Chess™ (GLU5719-050-M14) may be added. Thanks Dimitru for good suggestions around portable boards and magnets with the chess effort.
 
-Thanks Dimitru for good suggestions around portable boards and magnets.
-
+<br/><br/><br/>
 [^1]: Some parts referenced are being validated and are not yet released.
 
